@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #063751;
+}
+body {
+  background-color: #063751;
+}
+.svgHolder {
+  margin-top: 240px;
+}
